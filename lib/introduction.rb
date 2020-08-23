@@ -1,3 +1,3 @@
 def introduction(phrase,x)
-  n do ""
+  phrase do ""
 end
