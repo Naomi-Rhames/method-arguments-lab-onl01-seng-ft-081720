@@ -1,3 +1,3 @@
-def introduction(name,x)
-  name do ""
+def introduction(phrase,x)
+  n do ""
 end
