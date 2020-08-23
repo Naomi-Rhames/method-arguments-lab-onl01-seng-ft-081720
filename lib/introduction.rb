@@ -1,3 +1,3 @@
-def introduction(name,x)
-  phrase do "Hi,my name is Josh"
+def introduction_with_language(name)
+  puts "Hi,my name is #{name}"
 end
