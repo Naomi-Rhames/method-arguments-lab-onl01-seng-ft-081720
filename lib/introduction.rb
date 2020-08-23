@@ -1,3 +1,2 @@
 def intoduction(name)
-  puts ""
-end
+  puts "
