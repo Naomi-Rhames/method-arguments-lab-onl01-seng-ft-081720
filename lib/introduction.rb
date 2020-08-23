@@ -1,3 +1,3 @@
-def introduction(name)
+def intoduction(name)
   puts ""
 end
